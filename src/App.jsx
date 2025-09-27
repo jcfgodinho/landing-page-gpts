@@ -311,42 +311,20 @@ function App() {
                 </p>
 
                 <div className="mb-8">
-                  <div className="text-gray-400 text-2xl line-through mb-2">De R$ 1.997</div>
+                  <div className="text-gray-400 text-2xl line-through mb-2">De R$ 397</div>
                   <div className="text-5xl font-bold text-white mb-2">
-                    Por apenas <span className="text-green-400">R$ 497</span>
+                    Por apenas <span className="text-green-400">R$ 17</span>
                   </div>
                   <div className="text-gray-300">Pagamento único • Acesso vitalício</div>
                 </div>
 
-                <div className="bg-slate-800/50 rounded-2xl p-6 mb-8">
-                  <h3 className="text-2xl font-bold text-white mb-4">🎁 BÔNUS EXCLUSIVOS</h3>
-                  <div className="space-y-3 text-left">
-                    <div className="flex items-center gap-3">
-                      <CheckCircle className="w-5 h-5 text-green-400" />
-                      <span className="text-gray-300">Guia Rápido de Implementação (R$ 197)</span>
-                    </div>
-                    <div className="flex items-center gap-3">
-                      <CheckCircle className="w-5 h-5 text-green-400" />
-                      <span className="text-gray-300">100 Prompts Avançados Prontos (R$ 297)</span>
-                    </div>
-                    <div className="flex items-center gap-3">
-                      <CheckCircle className="w-5 h-5 text-green-400" />
-                      <span className="text-gray-300">Acesso à Comunidade VIP (R$ 497)</span>
-                    </div>
-                    <div className="flex items-center gap-3">
-                      <CheckCircle className="w-5 h-5 text-green-400" />
-                      <span className="text-gray-300">Suporte Prioritário por 90 dias (R$ 397)</span>
-                    </div>
-                  </div>
-                </div>
-
                 <Button size="lg" className="bg-gradient-to-r from-green-600 to-green-500 hover:from-green-700 hover:to-green-600 text-white px-12 py-6 text-xl font-bold rounded-full shadow-2xl transform hover:scale-105 transition-all duration-300 mb-4">
-                  🚀 QUERO MEU PACK AGORA - R$ 497
+                  🚀 QUERO MEU PACK AGORA - R$ 17
                 </Button>
 
                 <div className="flex items-center justify-center gap-2 mb-6">
                   <Shield className="w-5 h-5 text-green-400" />
-                  <span className="text-gray-300">Garantia incondicional de 30 dias</span>
+                  <span className="text-gray-300">Garantia incondicional de 7 dias</span>
                 </div>
 
                 <div className="flex items-center justify-center gap-2 mb-6">
@@ -385,7 +363,7 @@ function App() {
               <div className="bg-slate-700/50 p-6 rounded-xl">
                 <h3 className="text-xl font-semibold text-white mb-3">A garantia é real?</h3>
                 <p className="text-gray-300">
-                  Sim! Você tem 30 dias para testar tudo. Se não ficar 100% satisfeito, devolvemos seu dinheiro sem perguntas.
+                  Sim! Você tem 7 dias para testar tudo. Se não ficar 100% satisfeito, devolvemos seu dinheiro sem perguntas.
                 </p>
               </div>
 
@@ -412,7 +390,7 @@ function App() {
           </p>
 
           <Button size="lg" className="bg-gradient-to-r from-red-600 to-red-500 hover:from-red-700 hover:to-red-600 text-white px-12 py-6 text-xl font-bold rounded-full shadow-2xl transform hover:scale-105 transition-all duration-300 mb-8">
-            🔥 GARANTIR MINHA VAGA AGORA - R$ 497
+            🔥 GARANTIR MEU ACESSO AGORA - R$ 17
           </Button>
 
           <p className="text-gray-400 text-sm">
@@ -425,7 +403,7 @@ function App() {
       <footer className="bg-slate-900 py-12">
         <div className="container mx-auto px-4 text-center">
           <p className="text-gray-400 mb-4">
-            © 2024 Pack Essencial de GPTs. Todos os direitos reservados.
+            © 2025 Pack Essencial de GPTs. Todos os direitos reservados.
           </p>
           <p className="text-gray-500 text-sm">
             Este produto não garante resultados. Os resultados podem variar de pessoa para pessoa.
