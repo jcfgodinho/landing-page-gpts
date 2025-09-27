@@ -7,7 +7,7 @@ import './App.css'
 
 function App() {
   const [timeLeft, setTimeLeft] = useState({
-    hours: 23,
+    hours: 01,
     minutes: 59,
     seconds: 59
   })
